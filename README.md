@@ -63,7 +63,7 @@ This project demonstrates:
 
 ---
 
-------------------------Task-3---------------------------------------------------------------
+------------------------Task-4--------------------------------------------------------------
 
 # Basic Rule-Based Chatbot
 
@@ -89,10 +89,3 @@ This project is intended as a beginner exercise to practise:
   - `Sorry, I don't understand.`
 
 ---
-
-## Project Structure
-
-```text
-.
-├── chatbot.py      # Main Python script (you can rename if needed)
-└── README.md       # Project documentation
